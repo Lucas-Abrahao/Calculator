@@ -8,7 +8,7 @@
 🇺🇸 My First contact with Web-Dev, the Goal was to do a Simple Calculator.
 
 ---
-<h3 align="center">Build With:</h3>
+<h3 align="center">Built With:</h3>
 
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
